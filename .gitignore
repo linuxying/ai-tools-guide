@@ -1,3 +1,4 @@
+# 编辑器和系统文件
 *.tmp
 *.log
 .DS_Store
@@ -8,5 +9,65 @@ Thumbs.db
 *.swo
 *.bak
 *~
+
+# 依赖
 node_modules/
+__pycache__/
+*.pyc
+
+# === 敏感数据文件（禁止上传）===
+
+# OpenClaw配置
+openclaw.json
+.openclaw/
+
+# Token和密钥
+*.token
+*.secret
+*.key
+*.pem
+*.cert
+.credential
+.env
+.env.local
+.env.*.local
+
+# 飞书配置
+feishu_config.json
+feishu_credentials.json
+
+# Git配置
+.git-credentials
+.gitconfig.local
+
+# 文章元数据（可能包含内部信息）
 *-meta.json
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 备份文件
+*.bak
+*~
+*.old
+
+# 临时文件
+tmp/
+temp/
+.cache/
+
+# 日志
+logs/
+*.log
+
+# 测试
+coverage/
+.nyc_output/
+
+# 构建产物
+dist/
+build/
+*.min.js
+*.min.css
