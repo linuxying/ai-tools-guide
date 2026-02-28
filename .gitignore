@@ -1,0 +1,12 @@
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+node_modules/
+*-meta.json
