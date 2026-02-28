@@ -36,22 +36,6 @@
 ### 热门标签
 #DeepSeek #Cursor #Claude #AI编程 #Agent #大模型
 
-### 系列专题
-- [DeepSeek完全指南](series/deepseek-complete-guide.md) *(准备中)*
-- [Cursor实战手册](series/cursor-tutorials.md) *(准备中)*
-- [AI编程工具选型](series/ai-coding-tools.md) *(准备中)*
-
----
-
-## 🔥 TOP 爆款
-
-*(基于历史数据，待更新)*
-
-1. [WPS免费接入DeepSeek大模型](https://mp.weixin.qq.com/s/xxx) - 24,712阅读
-2. [用Claude Code的，别再用那个老PowerShell了](https://mp.weixin.qq.com/s/xxx) - 16,836阅读
-3. [快来领红包封面！！！](https://mp.weixin.qq.com/s/xxx) - 13,457阅读
-
----
 
 ## 📝 文章分类
 
@@ -89,11 +73,7 @@
 
 ## 📮 联系方式
 
-- **公众号：** [AI加所有](https://mp.weixin.qq.com/)（回复"资料"获取更多）
-- **飞书：** [知识库](https://my.feishu.cn/wiki/Cz49wjbNmi0dwqkLmx7cOgpUntc)
-- **GitHub：** @[your-username](https://github.com/your-username)
-
----
+- **公众号：** [AI加所有]
 
 ## ⭐ Star History
 
